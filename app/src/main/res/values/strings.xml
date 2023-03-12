@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SubscriberDatabase</string>
+    <string name="name">Name</string>
+    <string name="email">E-mail</string>
+    <string name="save">Save</string>
+    <string name="clear">Clear</string>
+</resources>
